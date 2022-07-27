@@ -1,16 +1,19 @@
-### Hi there 👋
+<div align="center">
+  <img align="left" src="https://user-images.githubusercontent.com/104843976/181306285-f2101a4f-2eb0-497f-ad0a-e47f22c6f8a3.png" width="700" height="300"/>
+  
+  <br/><br/>
+  <h3>Tech Stacks</h3>
+    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
+  <br/><br/><br/>
+  <h3>Blog</h3>
+  <a href="https://velog.io/@ckddyd_ea"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>&nbsp </a>
+  
+</div>
 
-<!--
-**era-s/era-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/><br/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=th3122"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img src="http://mazandi.herokuapp.com/api?handle=th3122&theme=warm"/>
+</div>
