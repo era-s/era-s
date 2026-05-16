@@ -14,6 +14,6 @@
 
 <br/><br/>
 
-<div align="center">
+<!-- <div align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=th3122"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img src="http://mazandi.herokuapp.com/api?handle=th3122&theme=warm"/>
-</div>
+</div> -->
