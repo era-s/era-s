@@ -20,7 +20,7 @@ LLM 추론과 컴퓨터 구조에 관심이 많고, 직접 돌려 본 것을 글
 | 시기 | 제목 | 세부사항 |
 |---|---|---|
 | 2026.11 | [Roofline: An Insightful Visual Performance Model](https://github.com/era-s/talks/blob/main/external/2026-11-inferencekorea-roofline.pdf) | Inference Korea 논문 스터디 |
-| 2026.11 | [인천 지하철 승차 인원 예측](https://github.com/era-s/talks/blob/main/external/2026-11-sincon-incheon-subway-forecast.pdf) | SINCON 2026 최우수상 |
+| 2026.11 | [The Agent Era: 인천 지하철 승차 인원 예측](https://github.com/era-s/talks/blob/main/external/2026-11-sincon-incheon-subway-forecast.pdf) | SINCON 2026 최우수상 |
 | 2026.09 | [Introduction to Transformer](https://github.com/era-s/talks/blob/main/study/2026-09-transformer-circuits-week0.pdf) | Transformer Circuits 스터디 Week 0 |
 | 2026.07 | [Introduction to Mixture of Experts Model & Inference](https://github.com/era-s/talks/blob/main/lab-seminar/2026-07-mixture-of-experts-inference.pdf) | 연구실 세미나 |
 | 2025.05 | [Transformer and GPT](https://github.com/era-s/talks/blob/main/external/2025-05-gyesan-highschool-gpt-lecture.pdf) | 계산고등학교 강의 |
