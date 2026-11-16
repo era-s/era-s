@@ -8,7 +8,10 @@
     <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
   <br/><br/><br/>
   <h3>Blog</h3>
-  <a href="https://velog.io/@ckddyd_ea"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>&nbsp </a>
+  <a href="https://era-s.github.io"><img src="https://img.shields.io/badge/era--s.github.io-222222?style=flat-square&logo=githubpages&logoColor=white"/></a>&nbsp
+  <br/><br/><br/>
+  <h3>Talks</h3>
+  <a href="https://github.com/era-s/talks"><img src="https://img.shields.io/badge/Slides-181717?style=flat-square&logo=github&logoColor=white"/></a>&nbsp
   
 </div>
 
